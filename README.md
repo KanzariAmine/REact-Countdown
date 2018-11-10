@@ -1,6 +1,8 @@
 # React Countdown
 
->React countdown calculate the difference between current date and a date in the future and the holidays between two dates
+>React countdown calculate the difference between current date and a date in the future. 
+
+>Get holidays between two dates
 
 # Technology Used:
 
